@@ -158,12 +158,6 @@ history = model.fit(
 )
 ```
 
-## 📁 Project Structure
-```
-├── classification_model_comparison_image_classification.ipynb
-└── README.md
-```
-
 ## 📬 Contact
 
 If you're interested in accessing the dataset or have any questions about this project, feel free to reach out:
